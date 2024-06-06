@@ -1,0 +1,11 @@
+#output-area {
+  border-style: dashed;
+  border-color: blue;
+  width: 50%;
+  max-width: 50%;
+  min-width: 500px;
+  background-color: lightblue;
+  height: 90vh;
+  max-height: 90vh;
+  min-height: 500px;
+}
